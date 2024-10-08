@@ -164,12 +164,6 @@ body {
   height: 50px;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 /* feature section */
 .features-section {
   text-align: center;
@@ -415,7 +409,7 @@ footer {
 
 
 .zappr-btn:hover{
-  color: #000;
+  color: #cacaca;
   border: 2px solid black;
   transition: linear 0.4s;
 }
