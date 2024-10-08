@@ -68,7 +68,8 @@ body {
 /* hero section */
 .offer-finder-section {
   text-align: center;
-  padding: 100px ;
+  padding: 50px 0;
+  border-bottom: 1px solid black;
 }
 
 .background-image {
@@ -114,7 +115,7 @@ body {
 }
 
 .offer-finder input { 
-  padding: 9px 90px;
+  padding: 9px 97px;
   margin-bottom: 20px;
   border-radius: 5px;
   border: 1px solid #ccc;
@@ -135,9 +136,12 @@ body {
   color: #fcf8f8;
   padding: 10px 20px;
   border-radius: 30px;
-  margin-top: 60px;
+  margin-top: 25px;
   cursor: pointer;
   text-decoration: underline;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 
@@ -442,4 +446,8 @@ a{
 .how-much:hover{
   border: 1px solid black;
   transition: linear .2s;
+}
+
+.how-much{
+  text-align: center;
 }
