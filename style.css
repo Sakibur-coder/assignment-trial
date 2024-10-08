@@ -65,7 +65,7 @@ body {
 
   }
 
-
+/* hero section */
 .offer-finder-section {
   text-align: center;
   padding: 100px ;
@@ -140,6 +140,8 @@ body {
   text-decoration: underline;
 }
 
+
+/* crypto section */
 .crypto-banner {
   background-color: #F7CA25;
   padding: 30px;
@@ -168,10 +170,7 @@ body {
   box-sizing: border-box;
 }
 
-body {
-  font-family: Arial, sans-serif;
-}
-
+/* feature section */
 .features-section {
   text-align: center;
   padding: 50px 20px;
@@ -249,15 +248,7 @@ body {
   color: #fff;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: Arial, sans-serif;
-}
+/* offer section */
 
 .offers-section {
   display: flex;
@@ -306,6 +297,7 @@ h2 {
   font-size: 14px;
 }
 
+
 .offers-btn {
   background-color: #000;
   color: #fff;
@@ -325,18 +317,9 @@ h2 {
   border: 1px solid #000;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: Arial, sans-serif;
-}
 
 .signup-banner {
-  background-color: #D1B2F9; /* Soft purple background */
+  background-color: #D1B2F9; 
   text-align: center;
   padding: 50px 20px;
   color: #000;
